@@ -1,0 +1,13 @@
+superuser
+username:admin
+password:admin
+email:admin@gmail.com
+______________________
+users
+username:manager
+password:p@ssword1
+email:manager@gmail.com
+______________________
+username:delivery
+password:p@ssword2
+email:delivery@gmail.com
